@@ -1,7 +1,7 @@
 # ❇️ DataSpeak: Data Professional Survey Dashboard  
 
 A dynamic and interactive Power BI dashboard designed to analyze global survey responses from data professionals.  
-The dashboard reveals insights on salaries, skills, demographics, and career challenges—empowering individuals and organizations to understand trends in the data industry.  
+The dashboard reveals insights on salaries, skills, demographics, and career challenges empowering individuals and organizations to understand trends in the data industry.  
 
 ---
 
@@ -25,7 +25,7 @@ This tool provides a clear view of the data workforce landscape and career dynam
 
 ## 📊 Data Source  
 
-- **Source:** Global survey of **630 data professionals** conducted to gather insights on salaries, programming preferences, job satisfaction, and career entry difficulty.  
+- **Source:** Global survey of 630 data professionals conducted to gather insights on salaries, programming preferences, job satisfaction, and career entry difficulty.  
 - **Structure:** Single dataset with fields for job title, salary, favorite programming language, country, age, and rating scales for work–life balance and salary happiness.  
 
 ---
