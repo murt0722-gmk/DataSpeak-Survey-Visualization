@@ -1,5 +1,3 @@
-# DataSpeak-Survey-Visualization
-
 # ❇️ DataSpeak: Data Professional Survey Dashboard  
 
 A dynamic and interactive Power BI dashboard designed to analyze global survey responses from data professionals.  
@@ -48,8 +46,8 @@ To deliver an intuitive, interactive tool that:
 ### **Walkthrough of Key Visuals**  
 - **Average Salary by Job Title (Top Left)** – Horizontal bar chart comparing salaries for roles like Data Scientist, Data Engineer, Data Architect, and others.  
 - **Favourite Programming Language (Top Center)** – Bar chart ranking programming languages (e.g., Python, R, C/C++, Java, JavaScript).  
-- **Key KPIs (Top Right)** – Cards displaying total survey takers (**630**) and average respondent age (**29.87**).  
-- **Happiness Gauges (Right)** – Radial gauges showing average happiness with work–life balance (**5.74/10**) and salary (**4.27/10**).  
+- **Key KPIs (Top Right)** – Cards displaying total survey takers (630) and average respondent age (29.87).  
+- **Happiness Gauges (Right)** – Radial gauges showing average happiness with work–life balance (5.74/10) and salary (4.27/10).  
 - **Country of Voters (Bottom Left)** – Treemap visualizing respondent distribution by country (e.g., United States, India, UK, Canada).  
 - **Difficulty Breaking Into Data (Bottom Center)** – Donut chart summarizing perceived difficulty levels (e.g., Easy, Difficult, Very Difficult).  
 
@@ -61,4 +59,4 @@ To deliver an intuitive, interactive tool that:
 
 ---
 ### **Snapshot** 
--**preview** (https://github.com/murt0722-gmk/DataSpeak-Survey-Visualization/blob/main/Snapshot%20of%20dashboard.jpeg)
+- **preview** (https://github.com/murt0722-gmk/DataSpeak-Survey-Visualization/blob/main/Snapshot%20of%20dashboard.jpeg)
