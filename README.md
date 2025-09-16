@@ -40,4 +40,4 @@ To deliver an intuitive, interactive tool that:
 •	Industry Trends: Analysts and thought leaders can benchmark industry dynamics for reports or presentations.
 ________________________________________
 • Snapshot 
-preview (
+preview (https://github.com/murt0722-gmk/DataSpeak-Survey-Visualization/blob/main/Snapshot%20of%20dashboard.jpeg)
